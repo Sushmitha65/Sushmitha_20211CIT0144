@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Student Biodata</title>
+    <style>
+        body {
+            background-color: white;
+            font-family: 'Aparajita';
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 400px;
+            margin: 20px auto;
+            background-color: rgba(235, 240, 240, 0.875);
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(221, 213, 213, 0.1);
+        }
+        .profile-img {
+            float: right;
+            margin-left: 20px;
+            margin-bottom: 20px;
+            border-radius: 50%;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="c:\Users\sushmitha\Desktop\size.jpg" alt="Student Image" class="profile-img">
+        <h1>Student Biodata</h1>
+        <h2>Personal Details</h2>
+        <p>Name: SUSHMITHA NC</p>
+        <p>Date of birth: 31/03/2003</p>
+        <p>Age: 21</p>
+        <p>Gender: FEMALE</p>
+        <p>Address: NO 20 KALASTHRI NAGAR, T.DASARAHALLI. BANGALORE-560057</p>
+        <h2>Educational Qualification</h2>
+        <p>University: Presidency University</p>
+        <p>Major: Computer Science Engineering</p>
+        <p>GPA: 8.3</p>
+        <h2>Hobbies</h2>
+        <p>Reading, Coding, Traveling</p>
+    </div>
+</body>
+</html>
